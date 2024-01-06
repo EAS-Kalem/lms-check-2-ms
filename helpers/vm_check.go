@@ -1,6 +1,6 @@
 package bob
 
 import ()
-//Args:{CHECK_ORG, CHECK_REPO, CHECK_FILE, CHECK_STRING}
+//Args:{CHECK_this, CHECK_that, CHECK_me, CHECK_STRING}
 func bob(){
 }
